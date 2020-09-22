@@ -1,0 +1,6 @@
+framework module Pods_EDRD {
+  umbrella header "Pods-EDRD-umbrella.h"
+
+  export *
+  module * { export * }
+}
